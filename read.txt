@@ -1,0 +1,5 @@
+git add read.txt
+git commit -m 'agregar read.txt'
+git push origin nueva-rama
+git push origin main
+git checkout -b main
